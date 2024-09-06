@@ -9,7 +9,7 @@ import { DataParserModule } from './data-parser/data-parser.module';
 @Module({
   imports: [
     ConfigModule.forRoot({
-      isGlobal: true, // Hace que el módulo esté disponible en toda la aplicación
+      isGlobal: true, 
     }),
     EmailParserModule,
     DataParserModule],

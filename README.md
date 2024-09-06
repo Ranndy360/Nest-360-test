@@ -47,7 +47,7 @@ The API is documented using Swagger, here are part of the documentation, but you
    http://localhost:3000/api/
    ```
 
-![image](https://github.com/Ranndy360/Nest-360-test/src/resources/screenshot.png)
+![image](https://github.com/Ranndy360/Nest-360-test/blob/main/src/resources/screenshot.png)
 
 * Author: Randy Letona
 * Website: ranndy360.com
